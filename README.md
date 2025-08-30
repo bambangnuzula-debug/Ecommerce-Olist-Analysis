@@ -1,7 +1,5 @@
 # Ecommerce-Olist-Analysis
 Exploratory Data Analysis on Brazilian E-Commerce Olist dataset
-# E-Commerce Olist Analysis 📊
-
 Analisis dataset E-Commerce Olist untuk melihat:
 - Kategori produk terlaris
 - Hubungan ongkos kirim dengan harga
